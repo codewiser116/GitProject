@@ -3,4 +3,5 @@ public class GitClass {
     ///message
     ///message on branch localBranch/newFunctionality
     //message #3
+    //message#4
 }
